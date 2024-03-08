@@ -1,0 +1,36 @@
+body {
+    background: url(https://th.bing.com/th/id/R.6f86eea9a4f8fdcaed6f990bc46cd5bd?rik=62VzIFvJFZK2Hw&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 90vh;
+}
+
+h1{
+    font-family: "Caveat";
+    font-size: 180px;
+    color: orange;
+    font-weight: 1000;
+    margin-top: 0%;
+    margin-bottom: auto;
+}
+
+p{
+    font-family: "Caveat";
+    font-size: 30px;
+    font-weight: 1000;
+    text-align: center;
+    color: rgb(255, 196, 87);
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.texto-destacado{
+    margin-top: 4%;
+    font-size: 45px;
+    color: orange;
+}
+
+div{
+    padding-left: 65%;
+}
